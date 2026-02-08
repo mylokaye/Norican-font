@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Manrope-Regular';
+    src: url('https://github.com/mylokaye/Norican-font/raw/refs/heads/main/Manrope-Regular.woff2') format('woff2'),
+        url('https://github.com/mylokaye/Norican-font/raw/refs/heads/main/Manrope-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
